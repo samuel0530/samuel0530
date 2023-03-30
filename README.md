@@ -4,7 +4,7 @@
 <br />
 <br />
 	<samp>
-	I am <b>Sergio</b>, a passionate full-stack web & mobile application developer from Colombia. <br/>
+	I am <b>Samuel</b>, a passionate full-stack web & mobile application developer from Colombia. <br/>
   &nbsp; • Ability to translate business requirements into technical solutions.<br />
   &nbsp; • Strong analytical and organizational attributes.<br />
   &nbsp; • A proven creative problem solver that achieves organizational goals and customer expectations.<br />
